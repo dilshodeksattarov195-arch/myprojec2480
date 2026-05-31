@@ -1,0 +1,8 @@
+body { background: #1e5a95; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 15px; display: flex; }
+.block-product-0 { color: #703b4a; font-size: 15px; margin-bottom: 5px; }
+.block-cluster-1 { color: #ed6ea5; font-size: 19px; margin-bottom: 5px; }
+.block-validator-2 { color: #5e2439; font-size: 15px; margin-bottom: 5px; }
+.block-token-3 { color: #40e8ae; font-size: 17px; margin-bottom: 5px; }
+.block-uploader-4 { color: #27d6f2; font-size: 13px; margin-bottom: 5px; }
+.block-search-5 { color: #b7d242; font-size: 15px; margin-bottom: 5px; }
